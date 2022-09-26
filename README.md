@@ -1,4 +1,4 @@
-# gradation
+# rotating polygon
 
 ## 👀
 
